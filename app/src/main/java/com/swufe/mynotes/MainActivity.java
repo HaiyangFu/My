@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity implements Runnable,AdapterV
             Log.i(TAG, "onCreate: sp保存数据"+course);
 
         }
-        Log.i(TAG, "onCreate: lalallalalal" + save);
+
         listView.setAdapter(adapter);
         listView.setOnItemClickListener(this);
         listView.setOnItemLongClickListener(this);
