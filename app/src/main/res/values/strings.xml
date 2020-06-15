@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="btn_clear">clear</string>
+    <string name="output" />
+    <string name="input">please input your task</string>
+    <string name="btn_confirm">confirm</string>
+    <string name="add_oup">please input your content</string>
+    <string name="add_inp">"please input "</string>
+    <string name="btn_add">confirm</string>
+</resources>
