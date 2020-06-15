@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity implements Runnable,AdapterV
             Gson gson = new Gson();
             list2 = gson.fromJson(listGson, new TypeToken<List<String>>() {
             }.getType());
-            Log.i(TAG, "onCreate: sp 保存数据"+course);
+            Log.i(TAG, "onCreate: sp保存数据"+course);
 
         }
 
