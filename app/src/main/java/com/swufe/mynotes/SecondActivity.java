@@ -38,7 +38,7 @@ public class SecondActivity extends AppCompatActivity implements View.OnClickLis
     private String TAG = "SecondActivity";
     EditText inp;
     List<String> list = new ArrayList<String>();
-    ListAdapter adapter; // 适配器
+    ListAdapter adapter; //  适配器
     ListView lv;
     String content ;
     Button button;
